@@ -1,0 +1,8 @@
+{
+    "mongo_uri": "mongodb+srv://guestUser:N51rrUDNGumr58I5@atlascluster.2xhsj1l.mongodb.net/trading-bot?retryWrites=true&w=majority&appName=AtlasCluster",
+    "jwt_secret": "mySecretKey",
+    "upstox_base_url": "https://api.upstox.com/v2",
+    "upstox_place_order_url": "https://api.upstox.com/v2",
+    "ohlc_interval": "1d",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJrZXlfaWQiOiJza192MS4wIiwiYWxnIjoiSFMyNTYifQ.eyJzdWIiOiI2VEI1RlAiLCJqdGkiOiI2N2E1YjkwZDUyOWY3YTI3NjhkYTIyZTEiLCJpc011bHRpQ2xpZW50IjpmYWxzZSwiaWF0IjoxNzM4OTE0MDYxLCJpc3MiOiJ1ZGFwaS1nYXRld2F5LXNlcnZpY2UiLCJleHAiOjE3Mzg5NjU2MDB9.ofiY78PzsFAT3Tjaq_LF_9uC-bSXSDkcuPzBpLe64-E"
+}

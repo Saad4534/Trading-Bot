@@ -1,0 +1,6 @@
+@media (max-width: 576px) {
+    .btn-responsive {
+      width: 50% !important; /* Set 50% width for small screens */
+    }
+  }
+  
